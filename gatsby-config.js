@@ -21,7 +21,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-datocms',
       options: {
-        apiToken: 'df7ea117c4efe00347258c921623e2',
+        apiToken: 'f1da87e2cb11db8d32994f1de44318',
         /**
          * Example of how locale fallbacks should be set,
          * refer to README.md for more infos
